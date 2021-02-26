@@ -4,7 +4,11 @@ praveen91299@gmail.com
 My team submission for QHACK 2021, hosted by Xanadu.ai  
 
 ## Last updated log:  
-26th Feb 12PM IST
+27th Feb 4:30AM IST
+
+## Content:  
+Jupyter notebook contains information of methods used and their explanations  
+qumulus.py provides three music learning and generation functions for different geometries. Refer to the jupyter notebook for more details.  
 
 ## Project abstract:  
 We provide a pennylane implementation of single qubit universal quantum classifier similar to that presented in [1] and [2]. We then provide an efficient method to parallely process classical data using a qram setup for the universal single qubit classifier.  
